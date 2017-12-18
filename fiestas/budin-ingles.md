@@ -2,6 +2,9 @@
 ```
 Budinera: 24*8*8
 ```
+
+![Budín Inglés](pictures/budin-ingles.jpeg)
+
 ## Ingredientes
 - 200g Manteca
 - 200 g Azúcar
